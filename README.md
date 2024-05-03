@@ -6,7 +6,7 @@ const response = {
     City: "Iran/Tehran",
     nickname: "</Ctrl+Z>",
     Age: 17,
-    Skills: "HTML,CSS,Tailwind,JavaScript,React,Redux",
+    Skills: "HTML,CSS,Tailwind,JavaScript,React,Redux,...",
     moreInformation: "I am completing and learning the fronteEnd development"
   },
 };
