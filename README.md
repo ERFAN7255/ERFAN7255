@@ -7,6 +7,7 @@ const response = {
     nickname: "</Ctrl+Z>",
     Age: 17,
     Skills: "HTML,CSS,Tailwind,JavaScript,React,Redux",
+    moreInformation: "I am completing and learning the fronteEnd development"
   },
 };
 ```
