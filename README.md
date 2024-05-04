@@ -6,7 +6,7 @@ const response = {
     city: "Iran/Tehran",
     age: 17,
     Skills: "HTML,CSS,Tailwind,JavaScript,React,Redux,...",
-    moreInformation: "I am completing and learning the fronteEnd development"
+    moreInformation: "I am completing and learning the fronteEnd development",
     condition: "Learning ..."
   },
 };
