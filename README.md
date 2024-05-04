@@ -3,9 +3,9 @@ const response = {
   status: 202,
   data: {
     name: "Erfan Naboureh",
-    City: "Iran/Tehran",
+    city: "Iran/Tehran",
     nickname: "</Ctrl+Z>",
-    Age: 17,
+    age: 17,
     Skills: "HTML,CSS,Tailwind,JavaScript,React,Redux,...",
     moreInformation: "I am completing and learning the fronteEnd development"
   },
