@@ -4,10 +4,10 @@ const response = {
   data: {
     name: "Erfan Naboureh",
     city: "Iran/Tehran",
-    nickname: "</Ctrl+Z>",
     age: 17,
     Skills: "HTML,CSS,Tailwind,JavaScript,React,Redux,...",
     moreInformation: "I am completing and learning the fronteEnd development"
+    condition: "Learning ..."
   },
 };
 ```
