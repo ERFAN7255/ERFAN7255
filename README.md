@@ -5,7 +5,7 @@ const response = {
     name: "Erfan Naboureh",
     city: "Iran/Tehran",
     age: 17,
-    Skills: "HTML,CSS,Tailwind,Sass,JavaScript,React,Axios,Redux,...",
+    Skills: "HTML,CSS,Tailwind,Sass,JavaScript,React,Axios,Redux, Learning => Next.Js",
     moreInformation: "I am completing and learning the fronteEnd development",
     condition: "Learning ..."
   },
