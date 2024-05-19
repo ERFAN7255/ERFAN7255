@@ -34,7 +34,7 @@ const response = {
   <img src="https://github-readme-stats.vercel.app/api?username=ERFAN7255&show_icons=true&theme=radical"/>
 </a>
 
-- <h2>📞 &nbsp; Connct Me </h2>
+- <h2>📞 &nbsp; Connect Me </h2>
 
  <p align="center">
   <a href="https://www.instagram.com/erfan.nbre?igsh=NDlteHYxNnJwdWoz/">
